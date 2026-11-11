@@ -6,7 +6,7 @@ from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, KeyboardBu
 
 # === НАЛАШТУВАННЯ ===
 BOT_TOKEN = "9243412076:AAGTVA2ZQjj1ac_gCAuzNULSg65nkC6_7MA"  # Токен від BotFather
-ADMIN_GROUP_ID = -5295520999  # ID вашої спільної групи з другом
+ADMIN_GROUP_ID = -1004409866534  # ID вашої спільної групи з другом
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
