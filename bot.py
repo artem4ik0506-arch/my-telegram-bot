@@ -5,8 +5,8 @@ from aiogram.filters import CommandStart
 from aiogram.types import InlineKeyboardButton, InlineKeyboardMarkup, KeyboardButton, ReplyKeyboardMarkup
 
 # === НАЛАШТУВАННЯ ===
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"  # Токен від BotFather
-ADMIN_GROUP_ID = -1001234567890  # ID вашої спільної групи з другом
+BOT_TOKEN = "9243412076:AAGTVA2ZQjj1ac_gCAuzNULSg65nkC6_7MA"  # Токен від BotFather
+ADMIN_GROUP_ID = -5295520999  # ID вашої спільної групи з другом
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
